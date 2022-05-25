@@ -18,7 +18,7 @@ Jinja2==2.11.2
 Markdown==3.2.1
 MarkupSafe==1.1.1
 phonenumbers==8.12.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 python-engineio==3.12.1
 python-socketio==4.5.1
 pytz==2020.1
